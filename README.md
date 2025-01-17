@@ -1,8 +1,3 @@
-url-files-to-markdown
+go-webview-playground
 =====================
-### How to use
-```
---dir={target}
-```
-### TODOs
-- [ ] file urls (e.g. "application/pdf")
+https://github.com/webview/webview_go/blob/master/webview.go
